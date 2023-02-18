@@ -1,0 +1,16 @@
+*{
+  margin: 0;
+  padding: 0;
+}
+body{
+
+  background-image: url('https://static.vecteezy.com/system/resources/previews/001/849/553/original/modern-gold-background-free-vector.jpg');
+ 
+  overflow-y: scroll;
+  overflow-x: hidden;
+}
+
+body::-webkit-scrollbar{
+  display: none;
+}
+

@@ -1,0 +1,77 @@
+.formcontrol{
+    text-align: center;
+    margin-top: 15rem;
+}
+label{
+    font-size: 1.5rem;
+    font-weight: 600;
+    padding-top: 2rem;
+    margin-left: -189px;
+    color: #fff;
+  
+}
+input{
+    height: 2.5rem;
+    width: 19rem;
+    font-size: 1.4rem;
+    padding-left: 0.7rem;
+    font-weight: 500;
+    border-radius: 9px;
+    border: none;
+    
+}
+.formcontrol1{
+    text-align: center;
+    margin-top: -2rem;
+   
+  
+}
+.formcontrol2{
+    text-align: center;
+    margin-top: -2rem;
+}
+.formcontrol3{
+    text-align: center;
+    margin-top: -2rem;
+   
+}
+.formcontrol4{
+    text-align: center;
+    margin-top: 2rem
+
+}
+.as{
+    width: 19rem;
+    height: 2.7rem;
+    font-size: 1.4rem;
+    font-weight: 600;
+    border: none;
+    color: #fff;
+    background-color: rgb(151, 64, 64);
+    border-radius: 9px
+}
+.as:hover{
+   color: rgb(255, 249, 249);;
+   background-color: #998181;
+}
+.formcontrol5{
+    text-align: center;
+    margin-top: 2rem;
+
+}
+.bs{
+    width: 19rem;
+    height: 2.5rem;
+    font-size: 1.4rem;
+    font-weight: 600;
+    border: none;
+    color: #fff;
+    background-color: rgb(4, 0, 255);
+    border-radius: 9px
+}
+
+error{
+    font-size: 19px;
+    color: red;
+   
+}
